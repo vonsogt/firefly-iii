@@ -309,7 +309,7 @@ return [
         'fr_FR' => ['name_locale' => 'Français', 'name_english' => 'French'],
         // 'he_IL' => ['name_locale' => 'Hebrew', 'name_english' => 'Hebrew'],
         'hu_HU' => ['name_locale' => 'Hungarian', 'name_english' => 'Hungarian'],
-        // 'id_ID' => ['name_locale' => 'Bahasa Indonesia', 'name_english' => 'Indonesian'],
+        'id_ID' => ['name_locale' => 'Bahasa Indonesia', 'name_english' => 'Indonesian'],
         // 'is_IS' => ['name_locale' => 'Icelandic', 'name_english' => 'Icelandic'],
         'it_IT' => ['name_locale' => 'Italiano', 'name_english' => 'Italian'],
         // 'ja_JA' => ['name_locale' => 'Japanese', 'name_english' => 'Japanese'],
